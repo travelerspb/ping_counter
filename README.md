@@ -9,3 +9,6 @@ Adjustable properties are:
 * UI preffix and suffix
 * Good/Bad/Acceptable ping colours and treasholds
 
+## QA
+Q: I can't see the counter!
+A: Make sure PingCounter element has Canvas parent.
