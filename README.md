@@ -1,4 +1,5 @@
 # Simple Ping counter for Unity3D
+[Link to Unity Assets Store](https://assetstore.unity.com/packages/slug/188063)
 
 ## How to use
 Just import assets and use prefab named `PingCounter` in your UI.
