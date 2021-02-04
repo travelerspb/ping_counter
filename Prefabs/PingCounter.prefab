@@ -52,7 +52,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   address: google.com
   updateSeconds: 5
-  pingPreffix: 'Ping: '
+  pingPreffix: 'Ping: 11'
   goodPingColour:
     serializedVersion: 2
     rgba: 4278583145
